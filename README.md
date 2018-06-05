@@ -1,3 +1,3 @@
 # s-124-service
-* See the [wiki](wiki) which is world-editable.
+* See the [wiki](https://github.com/amsa-code/s-124-service/wiki) which is world-editable.
 
